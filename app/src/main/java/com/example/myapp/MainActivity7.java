@@ -35,7 +35,7 @@ public class MainActivity7 extends AppCompatActivity {
                 ImageView i=new ImageView(getApplicationContext());
                 i.setScaleType(ImageView.ScaleType.FIT_CENTER);
                 i.setImageResource(R.drawable.mexican);
-                
+
                 return i;
             }
         });
